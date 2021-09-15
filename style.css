@@ -1,0 +1,1132 @@
+body {
+    background-color: rgb(223, 223, 223);
+}
+
+.obs {
+    margin-left: 16px;
+    margin-right: 12px;
+}
+
+select {
+    background-color: rgb(223, 223, 223);
+}
+
+#nadnav2 {
+    background-color: rgb(197, 129, 54);
+    border: 12px solid rgb(0, 162, 232);
+    border-radius: 60px;
+    display: inline-block;
+    width: 23%;
+    height: 100%;
+    padding: 12px;
+}
+
+header .imglogo {
+    border: 0px solid;
+    border-radius: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.imglogo1 {
+    border: 0px solid;
+    border-radius: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.logofouter {
+    background-color: rgb(0, 162, 232);
+    position: relative;
+}
+
+footer {
+    background-color: rgb(0, 162, 232);
+}
+
+.content {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    font-style: inherit;
+    font-size: 36px;
+    padding: 20px;
+    border-radius: 28px;
+}
+
+#content {
+    border-radius: 28px;
+}
+
+div {
+    background-color: rgb(221, 240, 255);
+    color: rgb(38, 0, 255);
+}
+
+.kolona1 {
+    float: left;
+    width: 50%;
+    height: 50%;
+}
+
+.fon {
+    background-color: black;
+}
+
+.kolona2 {
+    float: right;
+    width: 50%;
+    height: 50%;
+}
+
+.fonimg {
+    width: 50%;
+    height: 50%;
+    padding: 2%;
+}
+
+#fon1 {
+    float: right;
+}
+
+#fon2 {
+    float: right;
+}
+
+.zaglavienovini1 {
+    font-style: italic;
+    float: left;
+    background-color: rgb(221, 240, 255);
+}
+
+.novinitext1 {
+    float: left;
+    background-color: rgb(221, 240, 255);
+}
+
+.zaglavienovini2 {
+    font-style: italic;
+    float: right;
+    background-color: rgb(221, 240, 255);
+}
+
+.novinitext2 {
+    float: right;
+    background-color: rgb(221, 240, 255);
+}
+
+
+.nadglvnav {
+    display: none;
+    background-color: rgb(197, 129, 54);
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    border: 10px solid rgb(0, 162, 232);
+    border-radius: 0px;
+    padding: 0px;
+}
+
+.btnnav1 {
+    display: none;
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    text-decoration: none;
+    padding: 16px;
+    font-style: initial;
+    background-color: rgb(197, 129, 54);
+    text-align: center;
+    min-width: 98%;
+    border: 0px solid;
+    border-radius: 92px;
+}
+
+.btnnav1:hover {
+    color: red;
+    background-color: rgb(69, 119, 255);
+}
+
+h2 {
+    font-size: 60px;
+    font-style: inherit;
+    text-align: center;
+    color: rgb(197, 129, 54);
+    padding: 8px
+}
+
+.s1 {
+    font-size: 46px;
+    font-style: unset;
+    color: rgb(38, 0, 255);
+    font-style: italic;
+}
+
+.s8 {
+    font-size: 38px;
+    font-style: unset;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
+
+.ss {
+    font-size: 29px;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+}
+
+
+.navigaciq {
+    background-color: rgb(197, 129, 54);
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    border: 8px solid rgb(0, 162, 232);
+    border-radius: 0px;
+    padding: 20px;
+}
+
+.igri1 {
+    background-color: black;
+    border-radius: 28px;
+}
+
+.publikuvaisrashi {
+    font-size: 28px;
+    color: rgb(38, 0, 255);
+    padding: 20px;
+}
+
+.obsn {
+    background-color: black;
+    border-radius: 28px;
+}
+
+.adresnaupravlenie {
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    background-color: black;
+}
+
+.kont {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+.p1p1 {
+    font-size: 30px;
+}
+
+.novresponsive {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.str {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    text-decoration: none;
+    padding: 16px;
+    font-style: initial;
+}
+
+.str:hover {
+    background-color: rgb(0, 162, 232);
+    ;
+    color: rgb(158, 0, 0);
+    border: 0px;
+    border-radius: 40px;
+}
+
+.ns1 {
+    font-size: 40px;
+    font-style: italic;
+    color: rgb(38, 0, 255);
+    padding: 20px;
+}
+
+.nsp {
+    font-size: 29px;
+    font-style: inherit;
+    color: rgb(38, 0, 255);
+    padding: 10px;
+}
+
+.novinin {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-decoration: none;
+    padding: 14px;
+    font-style: initial;
+}
+
+.novinin:hover {
+    background-color: rgb(253, 253, 119);
+    color: rgb(158, 0, 0);
+    border: 0px;
+    border-radius: 40px;
+}
+
+.strelchapanagurishte {
+    font-size: 30;
+}
+
+.obshtnav2 {
+    background-color: rgb(197, 129, 54);
+    border: 12px solid rgb(0, 162, 232);
+    border-radius: 80px;
+    display: inline-block;
+    width: 94%;
+    height: 100%;
+    padding: 12px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px;
+    display: block;
+}
+
+.nadnav2 {
+    background-color: rgb(197, 129, 54);
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+    padding: 6px;
+}
+
+.nadnav2:hover {
+    background-color: rgb(0, 162, 232);
+    border: 0px solid;
+    border-radius: 40px;
+    color: red;
+}
+
+.nav2 {
+    display: none;
+    background-color: rgb(197, 129, 54);
+    display: none;
+    width: 94%;
+    height: 100%;
+    padding: 12px;
+}
+
+.stpn {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+.stpn:hover {
+    background-color: rgb(0, 162, 232);
+    color: red;
+    border: 0px solid;
+    border-radius: 40px;
+    height: 100%;
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+    clear: both;
+    background-color: rgb(0, 162, 232);
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+.submit {
+    padding: 24px;
+    width: 34%;
+    background-color: black;
+    font-size: 26px;
+    border: 0px;
+    border-radius: 40px;
+    color: red;
+    min-width: 84%;
+}
+
+.submit1 {
+    padding: 24px;
+    width: 34%;
+    background-color: black;
+    font-size: 26px;
+    border: 0px;
+    border-radius: 40px;
+    color: red;
+    min-width: 85%;
+}
+
+.submit:hover {
+    background-color: rgb(255, 255, 255);
+    color: red;
+}
+
+.submit1:hover {
+    background-color: rgb(255, 255, 255);
+    color: red;
+}
+
+.svideo {
+    width: 100%;
+    border: 0px solid;
+    border-radius: 20px;
+}
+
+.shrift {
+    font-size: 41px;
+}
+
+.cool2 {
+    width: 48%;
+    margin: 5px;
+    float: left;
+    display: block;
+    padding: 3px;
+    min-height: 200px;
+    background-color: black;
+    border-radius: 28px;
+    color: blanchedalmond;
+}
+
+.igri {
+    background-color: rgb(221, 240, 255);
+}
+
+.navigaciq3 {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 10px solid rgb(69, 119, 255);
+    border-radius: 60px;
+    padding: 24px;
+    display: inline-block;
+}
+
+.nav3games {
+    color: rgb(102, 255, 0);
+    font-size: 35px;
+    text-decoration: none;
+    padding: 16px;
+    font-style: initial;
+}
+
+.nav3games:hover {
+    color: yellow;
+    background-color: rgb(198, 100, 255);
+    border: 0px solid;
+    border-radius: 60px;
+}
+
+.games {
+    padding: 12px;
+    background-color: black;
+    border-radius: 28px;
+}
+
+.game1 {
+    padding: 25px;
+    border-radius: 60px;
+    margin: 30px;
+    background-color: rgb(197, 129, 54);
+}
+
+.game2 {
+    padding: 25px;
+    border-radius: 60px;
+    margin: 30px;
+    background-color: rgb(197, 129, 54);
+}
+
+.game3 {
+    padding: 25px;
+    border-radius: 60px;
+    margin: 30px;
+    background-color: rgb(197, 129, 54);
+}
+
+.game4 {
+    padding: 25px;
+    border-radius: 60px;
+    margin: 30px;
+    background-color: rgb(197, 129, 54);
+}
+
+.game5 {
+    padding: 25px;
+    border-radius: 60px;
+    margin: 30px;
+    background-color: rgb(197, 129, 54);
+}
+
+.game6 {
+    padding: 25px;
+    border-radius: 60px;
+    margin: 30px;
+    background-color: rgb(197, 129, 54);
+}
+
+.nav4 {
+    padding: 29px;
+    margin: 10px;
+}
+
+.sgams {
+    font-size: 54px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(197, 129, 54);
+    border: 8px solid rgb(69, 119, 255);
+    border-radius: 40px;
+    width: 100%;
+    height: 100%;
+}
+
+.sgams:hover {
+    color: red;
+}
+
+.klip1 {
+    width: 50%;
+    height: 50%;
+    margin: 15px;
+    padding: 23px;
+    background-color: rgb(197, 129, 54);
+    border: 9px solid rgb(69, 119, 255);
+    border-radius: 30px;
+    min-width: 86%;
+}
+
+.klip2 {
+    width: 50%;
+    height: 50%;
+    margin: 15px;
+    padding: 23px;
+    background-color: rgb(197, 129, 54);
+    border: 9px solid rgb(69, 119, 255);
+    border-radius: 30px;
+    min-width: 86%;
+}
+
+.klip3 {
+    width: 50%;
+    height: 50%;
+    margin: 15px;
+    padding: 23px;
+    background-color: rgb(197, 129, 54);
+    border: 9px solid rgb(69, 119, 255);
+    border-radius: 30px;
+    min-width: 86%;
+}
+
+.klip4 {
+    width: 50%;
+    height: 50%;
+    margin: 15px;
+    padding: 23px;
+    background-color: rgb(197, 129, 54);
+    border: 9px solid rgb(69, 119, 255);
+    border-radius: 30px;
+    min-width: 86%;
+}
+
+.obshtdvzab {
+    padding: 45px;
+    margin: 20px;
+    border: 9px solid rgb(69, 119, 255);
+    border-radius: 189px;
+    background-color: rgb(197, 129, 54);
+}
+
+.pnlzab {
+    background-color: rgb(197, 129, 54);
+    color: rgb(255, 255, 255);
+    font-size: 61px;
+    text-align: center;
+    padding: 25px;
+    font-size: 40px;
+    border-radius: 189px;
+}
+
+.pnlzab:hover {
+    border: 0px solid;
+    border-radius: 189px;
+    background-color: rgb(69, 119, 255);
+    color: red;
+}
+
+.nav5 {
+    padding: 29px;
+    margin: 20px;
+    background-color: rgb(197, 129, 54);
+    display: none;
+}
+
+.ppnl {
+    font-size: 38px;
+    padding: 2%;
+}
+
+.sklips {
+    text-decoration: none;
+    font-size: 53px;
+    color: rgb(255, 255, 255);
+    padding: 22px;
+}
+
+.sklips:hover {
+    color: red;
+}
+
+.zabavleniq {
+    background-color: rgb(221, 240, 255);
+}
+
+#snmk {
+    background-color: black;
+    border-radius: 28px;
+    color: rgb(255, 255, 255);
+}
+
+.img1 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img2 {
+    padding: 13px;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img3 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img4 {
+    padding: 13px;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img5 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img6 {
+    padding: 13px;
+    float: left;
+    margin: 16px;
+    width: 50%;
+    height: 50%;
+    background-color: black;
+}
+
+.img7 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img8 {
+    padding: 13px;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img9 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img10 {
+    padding: 13px;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img11 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img12 {
+    padding: 13px;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img13 {
+    padding: 13px;
+    float: left;
+    width: 50%;
+    height: 500%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img14 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img15 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img16 {
+    padding: 13px;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img17 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img18 {
+    padding: 13px;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img19 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img20 {
+    padding: 13px;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img21 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img22 {
+    padding: 13px;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img23 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img24 {
+    padding: 13px;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img25 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img26 {
+    padding: 13px;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img27 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img28 {
+    padding: 13px;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img29 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img30 {
+    padding: 13px;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img31 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img32 {
+    padding: 13px;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img33 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img34 {
+    padding: 13px;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+.img35 {
+    padding: 13px;
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 16px;
+    background-color: black;
+}
+
+#image {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.imgem {
+    display: none;
+}
+
+.obnav4 {
+    position: static;
+    width: 50%;
+    display: inline-block;
+    margin: 2%;
+    padding: 3%;
+    border-radius: 40px;
+    background-color: rgb(197, 129, 54);
+}
+
+.kartstd {
+    background-color: rgb(197, 129, 54);
+}
+
+.studio {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    background-color: rgb(197, 129, 54);
+}
+
+.yes {
+    display: none;
+}
+
+#snzg {
+    text-align: center;
+    font-size: 51px;
+}
+
+.plear {
+    padding: 14px;
+    margin: 8px;
+}
+
+.audzap {
+    min-width: 67%;
+    border: 8px solid rgb(0, 162, 232);
+    border-radius: 60px;
+    background-color: rgb(197, 129, 54);
+    padding: 4px;
+}
+
+.plr {
+    text-decoration: none;
+    text-align: center;
+    border: 8px solid rgb(0, 162, 232);
+    border-radius: 60px;
+    background-color: rgb(197, 129, 54);
+    color: #ffffff;
+    font-size: 24px;
+    padding: 16px;
+}
+
+.plr:hover {
+    border: 8px solid rgb(197, 129, 54);
+    background-color: rgb(0, 162, 232);
+    color: rgb(255, 255, 255);
+}
+
+.obplear {
+    float: right;
+}
+
+.obvsplr {
+    padding: 2%;
+}
+
+.poshte {
+    text-decoration: none;
+    text-align: center;
+    font-size: 31px;
+    font-weight: bold;
+    color: rgb(197, 129, 54);
+    width: 100%;
+    height: 100%;
+}
+
+.poshte:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.news {
+    background-color: rgb(221, 240, 255);
+    padding: 2%;
+    border-radius: 20px;
+    margin: 2%;
+}
+
+.vsnews {
+    background-color: rgb(221, 240, 255);
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.vnews {
+    text-decoration: none;
+    text-align: center;
+    color: rgb(197, 129, 54);
+    font-size: 41px;
+    font-weight: bold;
+    width: 100%;
+    height: 100%;
+}
+
+.vnews:hover {
+    text-decoration: none;
+    color: red;
+}
+
+
+.zaglavie {
+    color: rgb(197, 129, 54);
+    font-size: 59px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.zaglavie1 {
+    color: rgb(197, 129, 54);
+    font-size: 49px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.btn {
+    border-radius: 40px;
+    background-color: rgb(197, 129, 54);
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 100%;
+    font-size: 21px;
+    padding: 10px;
+}
+
+.btn:hover {
+    color: red;
+}
+
+input {
+    font-size: 16px;
+}
+
+.zapitvane {
+    background-color: rgb(197, 129, 54);
+    font-size: 39px;
+    font-style: unset;
+    float: left;
+    width: 40%;
+    height: 40%;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+form {
+    background-color: rgb(197, 129, 54);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 34px;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.doforms {
+    float: right;
+    width: 40%;
+    height: 40%;
+    margin: 8px;
+    padding-left: 20px;
+    position: relative;
+    padding: 28px;
+    border-radius: 30px;
+    background-color: black;
+}
+
+.buttonob {
+    padding: 6%;
+    float: left;
+    width: 80%;
+    height: 80%;
+}
+
+.button {
+    padding: 11%;
+    float: left;
+}
+
+#btsn {
+    width: 88%;
+    height: 88%;
+}
+
+#atrsn {
+    width: 90%;
+    height: 90%;
+}
+
+.atr {
+    background-color: rgb(197, 129, 54);
+    border: 8px solid rgb(0, 162, 232);
+    border-radius: 36px;
+    color: rgb(255, 255, 255);
+    font-size: 56px;
+    padding: 3%;
+    float: left;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    text-align: center;
+}
+
+.atr:hover {
+    background-color: rgb(0, 162, 232);
+    border: 8px solid rgb(197, 129, 54);
+    color: red;
+}

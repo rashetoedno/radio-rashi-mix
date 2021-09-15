@@ -1,0 +1,3523 @@
+/* МЕДИЯ ЗАЯВКИ ЗА МАЛКИ ЕКРАНИ */
+
+
+
+@media screen and (max-width: 1300px) {
+    header {
+        font-size: 40px;
+    }
+
+    h1 {
+        width: 55%;
+        height: 100%;
+    }
+
+    .plear {
+        padding: 14px;
+        margin: 8px;
+    }
+
+    .audzap {
+        min-width: 67%;
+        border: 8px solid;
+        border-radius: 60px;
+        padding: 4px;
+        border: 8px solid rgb(0, 162, 232);
+        background-color: rgb(197, 129, 54);
+    }
+
+    .plr {
+        text-decoration: none;
+        text-align: center;
+        border-radius: 60px;
+        font-size: 24px;
+        padding: 16px;
+        border: 8px solid rgb(0, 162, 232);
+        background-color: rgb(197, 129, 54);
+    }
+
+    .plr:hover {
+        border: 8px solid;
+        border: 8px solid rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+    }
+
+    .obplear {
+        float: right;
+    }
+
+}
+
+@media screen and (max-width: 1200px) {
+    header {
+        font-size: 30px;
+    }
+
+    h1 {
+        width: 45%;
+        height: 100%;
+    }
+
+    .doforms {
+        width: 40%;
+        height: 40%;
+        margin: 5px;
+        padding-left: 20px;
+        position: relative;
+        padding: 20px;
+        border-radius: 30px;
+        float: right;
+    }
+
+    .klip1 {
+        min-width: 84%;
+    }
+
+    .klip2 {
+        min-width: 84%;
+    }
+
+    .klip3 {
+        min-width: 84%;
+    }
+
+    .klip4 {
+        min-width: 84%;
+    }
+
+    .str {
+        font-size: 16px;
+    }
+
+    .audzap {
+        min-width: 62%;
+    }
+
+    .img1 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img2 {
+        padding: 13px;
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img3 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img4 {
+        padding: 13px;
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img5 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img6 {
+        padding: 13px;
+        float: left;
+        margin: 16px;
+        width: 50%;
+        height: 50%;
+    }
+
+    .img7 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img8 {
+        padding: 13px;
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img9 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img10 {
+        padding: 13px;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img11 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img12 {
+        padding: 13px;
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img13 {
+        padding: 13px;
+        float: left;
+        width: 50%;
+        height: 500%;
+        margin: 16px;
+    }
+
+    .img14 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img15 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img16 {
+        padding: 13px;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img17 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img18 {
+        padding: 13px;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img19 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img20 {
+        padding: 13px;
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img21 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img22 {
+        padding: 13px;
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img23 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img24 {
+        padding: 13px;
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+
+
+    @media screen and (max-width: 1150px) {
+
+        .audzap {
+            min-width: 58%;
+        }
+
+        .uspform {
+            font-size: 24px;
+        }
+
+        .nchl {
+            font-size: 34px;
+        }
+    }
+
+    @media screen and (max-width: 1100px) {
+
+        .str {
+            font-size: 16px;
+        }
+
+        .stpn {
+            font-size: 25px;
+        }
+
+        .doforms {
+            width: 40%;
+            height: 40%;
+            margin: 5px;
+            padding-left: 20px;
+            position: relative;
+            padding: 20px;
+            border-radius: 30px;
+            float: right;
+        }
+
+        .colsn2 {
+            min-width: 89%;
+        }
+
+        .klip1 {
+            min-width: 82%;
+        }
+
+        .klip2 {
+            min-width: 82%;
+        }
+
+        .klip3 {
+            min-width: 82%;
+        }
+
+        .klip4 {
+            min-width: 82%;
+        }
+
+    }
+
+    @media screen and (max-width: 1000px) {
+        .str {
+            font-size: 15px;
+            padding: 13px;
+        }
+
+        header {
+            font-size: 30px;
+        }
+
+        h1 {
+            width: 41%;
+            height: 100%;
+        }
+
+        h1:hover {
+            font-size: 30px;
+        }
+
+        .stpn {
+            font-size: 25px;
+        }
+
+        .doforms {
+            width: 50%;
+            height: 50%;
+            margin: 5px;
+            padding-left: 20px;
+            position: relative;
+            padding: 20px;
+            border-radius: 30px;
+        }
+
+        .cool2 {
+            min-width: 100px;
+            text-align: center;
+        }
+
+        .uspform {
+            font-size: 23px;
+        }
+
+        .nchl {
+            font-size: 34px;
+        }
+
+        .img1 {
+            padding: 13px;
+            float: right;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img2 {
+            padding: 13px;
+            float: left;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img3 {
+            padding: 13px;
+            float: right;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img4 {
+            padding: 13px;
+            float: left;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img5 {
+            padding: 13px;
+            float: right;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img6 {
+            padding: 13px;
+            float: left;
+            margin: 16px;
+            width: 50%;
+            height: 50%;
+        }
+
+        .img7 {
+            padding: 13px;
+            float: right;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img8 {
+            padding: 13px;
+            float: left;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img9 {
+            padding: 13px;
+            float: right;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img10 {
+            padding: 13px;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img11 {
+            padding: 13px;
+            float: right;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img12 {
+            padding: 13px;
+            float: left;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img13 {
+            padding: 13px;
+            float: left;
+            width: 50%;
+            height: 500%;
+            margin: 16px;
+        }
+
+        .img14 {
+            padding: 13px;
+            float: right;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img15 {
+            padding: 13px;
+            float: right;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img16 {
+            padding: 13px;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img17 {
+            padding: 13px;
+            float: right;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img18 {
+            padding: 13px;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img19 {
+            padding: 13px;
+            float: right;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img20 {
+            padding: 13px;
+            float: left;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img21 {
+            padding: 13px;
+            float: right;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img22 {
+            padding: 13px;
+            float: left;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img23 {
+            padding: 13px;
+            float: right;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+        .img24 {
+            padding: 13px;
+            float: left;
+            width: 50%;
+            height: 50%;
+            margin: 16px;
+        }
+
+    }
+
+    @media screen and (max-width: 900px) {
+        header {
+            font-size: 21px;
+        }
+
+        h1 {
+            width: 95%;
+            height: 100%;
+            font-size: 49px;
+        }
+
+        h1:hover {
+            font-size: 47px;
+        }
+
+        .stpn {
+            font-size: 20px;
+        }
+
+        input {
+            font-size: 14px;
+        }
+
+        .btn {
+            font-size: 16px;
+        }
+
+        .doforms {
+            width: 50%;
+            height: 50%;
+            margin: 5px;
+            padding-left: 20px;
+            position: relative;
+            padding: 20px;
+            border-radius: 30px;
+        }
+
+        form {
+            text-align: center;
+            font-size: 34px;
+            padding: 12px;
+            border-radius: 30px;
+        }
+
+        .video1 {
+            min-width: 88%;
+            float: none;
+        }
+
+        .video2 {
+            min-width: 88%;
+            float: none;
+        }
+
+        .video3 {
+            min-width: 88%;
+            float: none;
+        }
+
+        .video4 {
+            min-width: 88%;
+            float: none;
+        }
+
+        .navigaciq {
+            display: none;
+            font-size: 36px;
+            border-radius: 0px;
+            padding: 18px;
+        }
+
+        .str {
+            font-size: 22px;
+            display: table-caption;
+            width: 680px;
+            text-align: center;
+        }
+
+        .nadglvnav {
+            color: rgb(255, 255, 255);
+            font-size: 36px;
+            padding: 18px;
+            display: block;
+        }
+
+        .btnnav1 {
+            display: block;
+        }
+
+        .submit {
+            font-size: 20px;
+        }
+
+        .submit1 {
+            font-size: 22px;
+            width: 48%;
+        }
+
+        .cool2 {
+            min-width: 98%;
+        }
+
+    }
+
+    .zaglavienovini1 {
+        font-size: 44px;
+    }
+
+    .zaglavienovini2 {
+        font-size: 44px;
+    }
+
+    .novinitext1 {
+        font-size: 31px;
+    }
+
+    .novinitext2 {
+        font-size: 31px;
+    }
+
+    .s1 {
+        font-size: 29px;
+    }
+
+    .sp {
+        font-size: 20px;
+    }
+
+    .obshtnav2 {
+        width: 91%;
+        height: 100%;
+    }
+
+    .p1p1 {
+        font-size: 24px;
+    }
+
+    #image {
+        width: 50%;
+        height: 50%;
+    }
+
+    .img1 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img2 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img3 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img4 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img5 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img6 {
+        padding: 13px;
+        float: right;
+        margin: 16px;
+        width: 84%;
+        height: 100%;
+    }
+
+    .img7 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img8 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img9 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img10 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img11 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img12 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img13 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img14 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img15 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img16 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img17 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img18 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img19 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img20 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img21 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img22 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img23 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img24 {
+        padding: 13px;
+        float: right;
+        width: 84%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img25 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img26 {
+        padding: 13px;
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img27 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img28 {
+        padding: 13px;
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img29 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img30 {
+        padding: 13px;
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img31 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img32 {
+        padding: 13px;
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img33 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img34 {
+        padding: 13px;
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img35 {
+        padding: 13px;
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 16px;
+    }
+
+}
+
+@media screen and (max-width: 850px) {
+
+    h1 {
+        width: 95%;
+        height: 100%;
+        font-size: 49px;
+    }
+
+    h1:hover {
+        font-size: 47px;
+    }
+
+    .navigaciq {
+        display: none;
+        color: rgb(255, 255, 255);
+        font-size: 36px;
+        border-radius: 0px;
+        padding: 18px;
+    }
+
+    .nadglvnav {
+        color: rgb(255, 255, 255);
+        font-size: 36px;
+        border-radius: 0px;
+        padding: 18px;
+        display: block;
+    }
+
+    .btnnav1 {
+        display: block;
+    }
+
+    .plear {
+        padding: 14px;
+        margin: 8px;
+    }
+
+    .audzap {
+        min-width: 54%;
+        border-radius: 60px;
+        padding: 4px;
+    }
+
+    .plr {
+        text-decoration: none;
+        text-align: center;
+        border-radius: 60px;
+        font-size: 23px;
+        padding: 16px;
+    }
+
+    .plr:hover {
+        border: 8px solid;
+    }
+}
+
+@media screen and (max-width: 800px) {
+
+    h2 {
+        font-size: 51px;
+    }
+
+    .btn {
+        font-size: 14px;
+    }
+
+    .str {
+        font-size: 22px;
+        display: table-caption;
+        width: 580px;
+    }
+
+    h1 {
+        width: 92%;
+        height: 100%;
+        font-size: 49px;
+    }
+
+    h1:hover {
+        font-size: 44px;
+    }
+
+
+    .s1 {
+        font-size: 30px;
+    }
+
+    .sp {
+        font-size: 26px;
+    }
+
+    .doforms {
+        width: 83%;
+        height: 50%;
+    }
+
+    .zapitvane {
+        width: 87%;
+        height: 66%;
+    }
+
+    .kolona1 {
+        min-width: 94%;
+        padding: 20px;
+    }
+
+    .kolona2 {
+        min-width: 94%;
+        padding: 20px;
+    }
+
+    .nomer {
+        font-size: 56px;
+    }
+
+    .pesen {
+        font-size: 39px;
+    }
+
+    .submit {
+        font-size: 25px;
+        width: 60%;
+    }
+
+    .video1 {
+        min-width: 86%;
+        float: none;
+    }
+
+    .video2 {
+        min-width: 86%;
+        float: none;
+    }
+
+    .video3 {
+        min-width: 86%;
+        float: none;
+    }
+
+    .video4 {
+        min-width: 86%;
+        float: none;
+    }
+
+    .navigaciq {
+        display: caption;
+        padding: 20px;
+        font-size: 50px;
+        border: radius 60px;
+    }
+
+    .colsn2 {
+        min-width: 97%;
+    }
+
+    .img1 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img2 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img3 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img4 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img5 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img6 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img7 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img8 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img9 {
+        min-width: 90%;
+    }
+
+    .img10 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img11 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img12 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img13 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img14 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img15 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img16 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img17 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img18 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img19 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img20 {
+        min-width: 90%;
+    }
+
+    .img21 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img22 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img23 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img24 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img25 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img26 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img27 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img28 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img29 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img30 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img31 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img32 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img33 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .img34 {
+        min-width: 90%;
+    }
+
+    .img35 {
+        min-width: 90%;
+        float: right;
+    }
+
+    .audzap {
+        min-width: 49%;
+    }
+
+    .plr {
+        font-size: 18px;
+    }
+
+    .uspform {
+        font-size: 20px;
+    }
+
+    .nchl {
+        font-size: 27px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+
+    input {
+        font-size: 14px;
+    }
+
+    .btn {
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    h1 {
+        width: 88%;
+        height: 80%;
+        font-size: 59px;
+        padding: 10px;
+    }
+
+    .obshtnav2 {
+        width: 85%;
+        height: 100%;
+    }
+
+    .stpn {
+        font-size: 26px;
+    }
+
+    .navigaciq3 {
+        padding: 29px;
+    }
+
+    .kolona1 {
+        min-width: 93%;
+        padding: 20px;
+        float: left;
+    }
+
+    .kolona2 {
+        min-width: 93%;
+        padding: 20px;
+        float: left;
+    }
+
+    .nomer {
+        font-size: 56px;
+    }
+
+    .pesen {
+        font-size: 39px;
+    }
+
+    .navigaciq3 {
+        min-width: 86%;
+    }
+
+    .klip1 {
+        min-width: 79%;
+    }
+
+    .klip2 {
+        min-width: 79%;
+    }
+
+    .klip3 {
+        min-width: 79%;
+    }
+
+    .ppnl {
+        font-size: 34px;
+    }
+
+    .sklips {
+        font-size: 42px;
+    }
+
+    .klip4 {
+        min-width: 79%;
+    }
+
+    .str {
+        font-size: 23px;
+        padding: 23px;
+        width: 510px;
+    }
+
+    .navigaciq {
+        display: caption;
+        padding: 20px;
+        font-size: 50px;
+        border: radius 60px;
+    }
+
+    .audzap {
+        min-width: 43%;
+    }
+
+    .plr {
+        font-size: 18px;
+    }
+
+    input {
+        font-size: 10px;
+    }
+
+    .btn {
+        font-size: 12px;
+    }
+
+    .converter {
+        padding: 2%;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .str {
+        font-size: 20px;
+        width: 460px;
+    }
+
+    .obshtnav2 {
+        display: inline-block;
+    }
+
+    .stpn {
+        font-size: 22px;
+        padding: 16px;
+        display: inline-block;
+    }
+
+    .plear {
+        padding: 14px;
+        margin: 8px;
+    }
+
+    .audzap {
+        min-width: 96%;
+        border-radius: 60px;
+        padding: 4px;
+    }
+
+    .plr {
+        text-decoration: none;
+        text-align: center;
+        border-radius: 60px;
+        font-size: 24px;
+        padding: 27px;
+        border: 8px solid rgb(0, 162, 232);
+        background-color: rgb(197, 129, 54);
+    }
+
+    .plr:hover {
+        border: 8px solid rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+        color: rgb(255, 255, 255);
+    }
+
+    .obplear {
+        float: unset;
+        padding: 45px;
+    }
+
+    .obvsplr {
+        padding: 4%;
+    }
+
+    .obuspinchl {
+        width: 65%;
+        height: 40%;
+        padding: 6%;
+        margin: 6%;
+    }
+
+    .uspform {
+        color: red;
+        font-style: italic;
+        border-radius: 20px;
+        font-size: 32px;
+        width: 50%;
+        height: 80%;
+        text-align: center;
+        padding: 6%;
+    }
+
+    .pnlzab {
+        font-size: 21px;
+    }
+
+    .ppnl {
+        font-size: 21px;
+    }
+
+    .sklips {
+        font-size: 23px;
+    }
+
+    .nchl {
+        text-decoration: none;
+        color: red;
+        font-size: 34px;
+        font-style: italic;
+        text-align: center;
+    }
+
+    .nchl:hover {
+        color: rgb(38, 0, 255);
+    }
+
+    .nchldiv {
+        background-color: rgb(0, 255, 149);
+        border-radius: 20px;
+        text-align: center;
+        padding: 2%;
+    }
+
+    .obdiv {
+        background-color: rgb(0, 255, 149);
+        border-radius: 20px;
+        text-align: center;
+    }
+
+    input {
+        font-size: 12px;
+    }
+
+    .btn {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .video1 {
+        min-width: 83%;
+        float: none;
+    }
+
+    .video2 {
+        min-width: 83%;
+        float: none;
+    }
+
+    .video3 {
+        min-width: 83%;
+        float: none;
+    }
+
+    .video4 {
+        min-width: 83%;
+        float: none;
+    }
+
+    .ppnl {
+        font-size: 29px;
+    }
+
+    .submit {
+        font-size: 20px;
+        width: 60%;
+    }
+
+    .novresponsive {
+        max-width: 97%;
+    }
+
+    h1 {
+        width: 86%;
+        height: 80%;
+        font-size: 59px;
+        padding: 10px;
+    }
+
+    .none {
+        display: none;
+    }
+
+    .yes {
+        display: block;
+    }
+
+    .obshtnav2 {
+        width: 84%;
+    }
+
+    .nav2 {
+        width: 88%;
+
+    }
+
+    .stpn {
+        font-size: 30px;
+    }
+
+    .kolona1 {
+        min-width: 90%;
+    }
+
+    .kolona2 {
+        min-width: 90%;
+    }
+
+    .cool2 {
+        min-width: 97%;
+    }
+
+    .nav3games {
+        font-size: 31px;
+    }
+
+    .content {
+        font-size: 26px;
+    }
+
+    .str {
+        font-size: 21px;
+        padding: 13px;
+        width: 430px;
+    }
+
+    .imgem {
+        display: block;
+    }
+
+    .imgeg {
+        display: none;
+    }
+
+    .plear {
+        padding: 10px;
+        margin: 8px;
+    }
+
+    .audzap {
+        min-width: 96%;
+        padding: 4px;
+    }
+
+    .plr {
+        text-decoration: none;
+        text-align: center;
+        border: 8px solid;
+        border-radius: 60px;
+        font-size: 26px;
+        padding: 27px;
+        border: 8px solid rgb(0, 162, 232);
+        background-color: rgb(197, 129, 54);
+    }
+
+    .plr:hover {
+        border: 8px solid rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+        color: rgb(255, 255, 255);
+    }
+
+    .obplear {
+        float: unset;
+        padding: 26px;
+    }
+
+    .obvsplr {
+        padding: 0%;
+    }
+
+    #image {
+        width: 75%;
+        height: 75%;
+    }
+
+    .zabavleniq {
+        font-size: 32px;
+    }
+
+}
+
+
+@media screen and (max-width: 582px) {
+
+    input {
+        font-size: 9px;
+    }
+
+    .btn {
+        font-size: 9px;
+    }
+
+    .euro {
+        display: inline-block;
+        padding: 47px;
+        border-radius: 20px;
+        color: rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+        text-align: center;
+        font-size: 28px;
+        font-weight: bold;
+        width: 20%;
+        height: 20%;
+    }
+
+    .bgn {
+        display: inline-block;
+        padding: 47px;
+        border-radius: 20px;
+        color: rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+        text-align: center;
+        font-size: 28px;
+        font-weight: bold;
+        width: 20%;
+        height: 20%;
+    }
+
+    .converter {
+        padding: 4%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .str {
+        font-size: 19px;
+        width: 370px;
+    }
+
+    .ppnl {
+        font-size: 27px;
+    }
+
+
+    .plear {
+        padding: 10px;
+        margin: 8px;
+    }
+
+    .audzap {
+        min-width: 96%;
+        padding: 1px;
+    }
+
+    .plr {
+        text-decoration: none;
+        text-align: center;
+        border: 8px solid;
+        border-radius: 60px;
+        font-size: 26px;
+        padding: 27px;
+        border: 8px solid rgb(0, 162, 232);
+        background-color: rgb(197, 129, 54);
+    }
+
+    .plr:hover {
+        border: 8px solid rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+        color: rgb(255, 255, 255);
+    }
+
+    .obplear {
+        float: unset;
+        padding: 26px;
+    }
+
+    .obvsplr {
+        padding: 0%;
+    }
+
+    .img1 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img2 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img3 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img4 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img5 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img6 {
+        padding: 13px;
+        float: left;
+        display: none;
+        margin: 16px;
+        width: 78%;
+        height: 100%;
+    }
+
+    .img7 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img8 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img9 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img10 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img11 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img12 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img13 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img14 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img15 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img16 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img17 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img18 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img19 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img20 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img21 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img22 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img23 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img24 {
+        padding: 13px;
+        float: left;
+        width: 78%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    #idsnmlch1 {
+        width: 90%;
+        height: 100%;
+    }
+
+    .converter {
+        padding: 2%;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    h1 {
+        max-width: 80%;
+        font-size: 44px;
+    }
+
+    .clips {
+        width: 89%;
+    }
+
+    h1:hover {
+        font-size: 37px;
+    }
+
+    .str {
+        font-size: 19px;
+        width: 339px;
+    }
+
+    .obplear {
+        float: unset;
+        padding: 26px;
+    }
+
+    .img1 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img2 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img3 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img4 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img5 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img6 {
+        padding: 13px;
+        float: left;
+        display: none;
+        margin: 16px;
+        width: 20%;
+        height: 50%;
+    }
+
+    .img7 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img8 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img9 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img10 {
+        padding: 13px;
+        float: l2eft;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img11 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img12 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img13 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img14 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img15 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img16 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img17 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img18 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img19 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img20 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img21 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img22 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img23 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img24 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    #image {
+        width: 80%;
+        height: 50%;
+    }
+
+    input {
+        font-size: 8px;
+    }
+
+    .btn {
+        font-size: 8px;
+    }
+
+}
+
+
+@media screen and (max-width: 450px) {
+    h1 {
+        max-width: 80%;
+        font-size: 44px;
+    }
+
+    h1:hover {
+        font-size: 37px;
+    }
+
+    .str {
+        font-size: 19px;
+    }
+
+    .sgams {
+        font-size: 41px;
+    }
+
+    .plear {
+        padding: 8px;
+        margin: 8px;
+    }
+
+    .audzap {
+        min-width: 96%;
+        padding: 1px;
+    }
+
+    .plr {
+        text-decoration: none;
+        text-align: center;
+        border: 8px solid;
+        border-radius: 60px;
+        font-size: 23px;
+        padding: 16px;
+        border: 8px solid rgb(0, 162, 232);
+        background-color: rgb(197, 129, 54);
+    }
+
+    .plr:hover {
+        border: 8px solid rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+        color: rgb(255, 255, 255);
+    }
+
+    .obplear {
+        float: unset;
+        padding: 26px;
+    }
+
+    .obvsplr {
+        padding: 0%;
+    }
+
+    .img1 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img2 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img3 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img4 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img5 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img6 {
+        padding: 13px;
+        float: left;
+        display: none;
+        margin: 16px;
+        width: 20%;
+        height: 50%;
+    }
+
+    .img7 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img8 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img9 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img10 {
+        padding: 13px;
+        float: l2eft;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img11 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img12 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img13 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img14 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img15 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img16 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img17 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img18 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img19 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img20 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img21 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img22 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img23 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+    .img24 {
+        padding: 13px;
+        float: left;
+        width: 20%;
+        height: 50%;
+        margin: 16px;
+    }
+
+}
+
+
+
+/* МЕДИЯ ЗАЯВКИ ЗА ГОЛЕМИ ЕКРАНИ */
+
+
+
+
+@media screen and (min-width: 1300px) {
+    body {
+        background-color: rgb(223, 223, 223);
+    }
+
+    .obs {
+        margin-left: 16px;
+        margin-right: 12px;
+    }
+
+    select {
+        background-color: rgb(223, 223, 223);
+    }
+
+    #nadnav2 {
+        background-color: rgb(197, 129, 54);
+        border: 12px solid rgb(0, 162, 232);
+        border-radius: 60px;
+        display: inline-block;
+        width: 23%;
+        height: 100%;
+        padding: 12px;
+    }
+
+    header .imglogo {
+        border: 0px solid;
+        border-radius: 0px;
+        width: 100%;
+        height: 100%;
+    }
+
+    H1:hover {
+        color: rgb(51, 255, 0);
+        font-style: oblique;
+        font-size: 58px;
+        border: 12px solid rgb(255, 0, 0)
+    }
+
+    h1 {
+        float: left;
+        border: 16px solid rgb(255, 238, 0);
+        float: left;
+        width: 60%;
+        height: 100%;
+    }
+
+    .content {
+        color: rgb(38, 0, 255);
+        font-style: inherit;
+        font-size: 44px;
+        padding: 20px
+    }
+
+    div {
+        background-color: rgb(221, 240, 255);
+        color: rgb(38, 0, 255);
+    }
+
+    .zapitvane {
+        background-color: rgb(197, 129, 54);
+        font-size: 49px;
+        font-style: unset;
+        float: left;
+        width: 40%;
+        height: 40%;
+        padding: 10px;
+        border-radius: 30px;
+    }
+
+    form {
+        background-color: rgb(197, 129, 54);
+        color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 44px;
+        padding: 20px;
+        border-radius: 30px;
+    }
+
+    .doforms {
+        float: right;
+        width: 40%;
+        height: 40%;
+        margin: 8px;
+        padding-left: 20px;
+        position: relative;
+        padding: 20px;
+        border-radius: 30px;
+    }
+
+    .nomer {
+        color: rgb(197, 129, 54);
+        font-size: 58px;
+        font-style: italic;
+    }
+
+    .pesen {
+        color: blue;
+        font-style: inherit;
+        font-size: 32px;
+    }
+
+    .kolona1 {
+        float: left;
+        width: 50%;
+        height: 50%;
+    }
+
+    .kolona2 {
+        float: right;
+        width: 50%;
+        height: 50%;
+    }
+
+    .zaglavienovini1 {
+        font-style: italic;
+        float: left;
+        background-color: rgb(221, 240, 255);
+    }
+
+    .novinitext1 {
+        float: left;
+        background-color: rgb(221, 240, 255);
+    }
+
+    .zaglavienovini2 {
+        font-style: italic;
+        float: right;
+        background-color: rgb(221, 240, 255);
+    }
+
+    .novinitext2 {
+        float: right;
+        background-color: rgb(221, 240, 255);
+    }
+
+
+    .nadglvnav {
+        display: none;
+        background-color: rgb(197, 129, 54);
+        color: rgb(255, 255, 255);
+        font-size: 36px;
+        border: 10px solid rgb(0, 162, 232);
+        border-radius: 0px;
+        padding: 0px;
+    }
+
+
+    .btnnav1 {
+        display: none;
+        color: rgb(255, 255, 255);
+        font-size: 38px;
+        text-decoration: none;
+        padding: 16px;
+        font-style: initial;
+        background-color: rgb(197, 129, 54);
+        text-align: center;
+        min-width: 98%;
+        border: 0px solid;
+        border-radius: 92px;
+    }
+
+    .btnnav1:hover {
+        color: red;
+        background-color: rgb(69, 119, 255);
+    }
+
+
+    h2 {
+        font-size: 70px;
+        font-style: inherit;
+        text-align: center;
+        color: rgb(197, 129, 54);
+        padding: 8px
+    }
+
+    .s1 {
+        font-size: 66px;
+        font-style: unset;
+        color: rgb(38, 0, 255);
+        font-style: italic;
+    }
+
+    .s8 {
+        font-size: 58px;
+        font-style: unset;
+        color: rgb(38, 0, 255);
+        font-style: italic;
+    }
+
+    .ss {
+        font-size: 39px;
+        text-align: left;
+        color: rgb(38, 0, 255);
+        font-style: normal;
+    }
+
+
+    .navigaciq {
+        background-color: rgb(197, 129, 54);
+        color: rgb(255, 255, 255);
+        font-size: 50px;
+        border: 8px solid rgb(0, 162, 232);
+        border-radius: 0px;
+        padding: 20px;
+    }
+
+    .video1 {
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 12px;
+        padding: 20px;
+        background-color: rgb(197, 129, 54);
+        border: 9px solid rgb(0, 162, 232);
+        border-radius: 30px;
+    }
+
+    .video2 {
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 12px;
+        padding: 20px;
+        background-color: rgb(197, 129, 54);
+        border: 9px solid rgb(0, 162, 232);
+        border-radius: 30px;
+    }
+
+    .video3 {
+        float: left;
+        width: 50%;
+        height: 50%;
+        margin: 12px;
+        padding: 20px;
+        background-color: rgb(197, 129, 54);
+        border: 9px solid rgb(0, 162, 232);
+        border-radius: 30px;
+    }
+
+    .video4 {
+        float: right;
+        width: 50%;
+        height: 50%;
+        margin: 12px;
+        padding: 20px;
+        background-color: rgb(197, 129, 54);
+        border: 9px solid rgb(0, 162, 232);
+        border-radius: 30px;
+    }
+
+    .publikuvaisrashi {
+        font-size: 28px;
+        color: rgb(38, 0, 255);
+        padding: 20px;
+    }
+
+    .adresnaupravlenie {
+        color: rgb(38, 0, 255);
+        font-size: 34px;
+    }
+
+    .p1p1 {
+        font-size: 40px;
+    }
+
+    .str {
+        color: rgb(255, 255, 255);
+        font-size: 27px;
+        text-decoration: none;
+        padding: 16px;
+        font-style: initial;
+    }
+
+    .str:hover {
+        background-color: rgb(0, 162, 232);
+        color: rgb(158, 0, 0);
+        border: 0px;
+        border-radius: 40px;
+    }
+
+    .ns1 {
+        font-size: 50px;
+        font-style: italic;
+        color: rgb(38, 0, 255);
+        padding: 20px;
+    }
+
+    .nsp {
+        font-size: 39px;
+        font-style: inherit;
+        color: rgb(38, 0, 255);
+        padding: 10px;
+    }
+
+    .novinin {
+        color: rgb(255, 255, 255);
+        font-size: 25px;
+        text-decoration: none;
+        padding: 14px;
+        font-style: initial;
+    }
+
+    .novinin:hover {
+        background-color: rgb(253, 253, 119);
+        color: rgb(158, 0, 0);
+        border: 0px;
+        border-radius: 40px;
+    }
+
+    .strelchapanagurishte {
+        font-size: 40;
+    }
+
+    .obshtnav2 {
+        background-color: rgb(197, 129, 54);
+        border: 12px solid rgb(0, 162, 232);
+        border-radius: 80px;
+        display: inline-block;
+        width: 94%;
+        height: 100%;
+        padding: 12px;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        font-size: 40px;
+        padding: 20px;
+        display: block;
+    }
+
+    .nadnav2 {
+        background-color: rgb(197, 129, 54);
+        color: rgb(255, 255, 255);
+        font-size: 50px;
+        text-align: center;
+        padding: 6px;
+    }
+
+    .nadnav2:hover {
+        background-color: rgb(0, 162, 232);
+        border: 0px solid;
+        border-radius: 40px;
+        color: red;
+    }
+
+    .nav2 {
+        display: none;
+        background-color: rgb(197, 129, 54);
+        display: none;
+        width: 94%;
+        height: 100%;
+        padding: 12px;
+    }
+
+    .stpn {
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        font-size: 36px;
+        padding: 20px;
+        display: inline-block;
+        height: 100%;
+        width: 100%;
+    }
+
+    .stpn:hover {
+        background-color: rgb(0, 162, 232);
+        color: red;
+        border: 0px solid;
+        border-radius: 40px;
+        height: 100%;
+        width: 100%;
+    }
+
+    footer {
+        text-align: center;
+        padding: 15px;
+        margin-top: 20px;
+        clear: both;
+        background-color: rgb(0, 162, 232);
+        font-size: 38px;
+        color: rgb(255, 255, 255);
+    }
+
+    .submit {
+        padding: 24px;
+        width: 34%;
+        background-color: rgb(45, 255, 45);
+        font-size: 36px;
+        border: 0px;
+        border-radius: 40px;
+        color: rgb(255, 255, 255);
+        min-width: 84%;
+    }
+
+    .submit1 {
+        padding: 24px;
+        width: 34%;
+        background-color: rgb(45, 255, 45);
+        font-size: 36px;
+        border: 0px;
+        border-radius: 40px;
+        color: rgb(255, 255, 255);
+        min-width: 85%;
+    }
+
+    .submit:hover {
+        background-color: rgb(0, 162, 232);
+        color: red;
+    }
+
+    .submit1:hover {
+        background-color: rgb(0, 162, 232);
+        color: red;
+    }
+
+    .svideo {
+        width: 100%;
+        border: 0px solid;
+        border-radius: 20px;
+    }
+
+    .shrift {
+        font-size: 51px;
+    }
+
+    .cool2 {
+        width: 48%;
+        margin: 5px;
+        float: left;
+        display: block;
+        padding: 3px;
+        min-height: 200px;
+    }
+
+    .igri {
+        background-color: rgb(221, 240, 255);
+    }
+
+    .navigaciq3 {
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        border: 10px solid rgb(69, 119, 255);
+        border-radius: 60px;
+        padding: 24px;
+        display: inline-block;
+    }
+
+    .nav3games {
+        color: rgb(102, 255, 0);
+        font-size: 45px;
+        text-decoration: none;
+        padding: 16px;
+        font-style: initial;
+    }
+
+
+    .nav3games:hover {
+        color: yellow;
+        background-color: rgb(198, 100, 255);
+        border: 0px solid;
+        border-radius: 60px;
+    }
+
+    .games {
+        padding: 12px;
+    }
+
+    .game1 {
+        padding: 25px;
+        border: 8px solid rgb(0, 162, 232);
+        border-radius: 60px;
+        margin: 30px;
+        background-color: rgb(197, 129, 54);
+    }
+
+    .game2 {
+        padding: 25px;
+        border: 8px solid rgb(0, 162, 232);
+        border-radius: 60px;
+        margin: 30px;
+        background-color: rgb(197, 129, 54);
+    }
+
+    .game3 {
+        padding: 25px;
+        border: 8px solid rgb(0, 162, 232);
+        border-radius: 60px;
+        margin: 30px;
+        background-color: rgb(197, 129, 54);
+    }
+
+    .game4 {
+        padding: 25px;
+        border: 8px solid rgb(0, 162, 232);
+        border-radius: 60px;
+        margin: 30px;
+        background-color: rgb(197, 129, 54);
+    }
+
+    .game5 {
+        padding: 25px;
+        border: 8px solid rgb(0, 162, 232);
+        border-radius: 60px;
+        margin: 30px;
+        background-color: rgb(197, 129, 54);
+    }
+
+    .game6 {
+        padding: 25px;
+        border: 8px solid rgb(0, 162, 232);
+        border-radius: 60px;
+        margin: 30px;
+        background-color: rgb(197, 129, 54);
+    }
+
+    .nav4 {
+        padding: 29px;
+        margin: 10px;
+    }
+
+    .sgams {
+        font-size: 72px;
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        background-color: rgb(197, 129, 54);
+        border: 8px solid rgb(69, 119, 255);
+        border-radius: 40px;
+        width: 100%;
+        height: 100%;
+    }
+
+    .sgams:hover {
+        color: red;
+    }
+
+    .klip1 {
+        width: 50%;
+        height: 50%;
+        margin: 15px;
+        padding: 23px;
+        background-color: rgb(197, 129, 54);
+        border: 9px solid rgb(69, 119, 255);
+        border-radius: 30px;
+        min-width: 86%;
+    }
+
+    .klip2 {
+        width: 50%;
+        height: 50%;
+        margin: 15px;
+        padding: 23px;
+        background-color: rgb(197, 129, 54);
+        border: 9px solid rgb(69, 119, 255);
+        border-radius: 30px;
+        min-width: 86%;
+    }
+
+    .klip3 {
+        width: 50%;
+        height: 50%;
+        margin: 15px;
+        padding: 23px;
+        background-color: rgb(197, 129, 54);
+        border: 9px solid rgb(69, 119, 255);
+        border-radius: 30px;
+        min-width: 86%;
+    }
+
+    .klip4 {
+        width: 50%;
+        height: 50%;
+        margin: 15px;
+        padding: 23px;
+        background-color: rgb(197, 129, 54);
+        border: 9px solid rgb(69, 119, 255);
+        border-radius: 30px;
+        min-width: 86%;
+    }
+
+    .obshtdvzab {
+        padding: 45px;
+        margin: 20px;
+        border: 9px solid rgb(69, 119, 255);
+        border-radius: 189px;
+        background-color: rgb(197, 129, 54);
+    }
+
+    .pnlzab {
+        background-color: rgb(197, 129, 54);
+        color: rgb(255, 255, 255);
+        font-size: 61px;
+        text-align: center;
+        padding: 25px;
+        font-size: 50px;
+        border-radius: 189px;
+    }
+
+    .pnlzab:hover {
+        border: 0px solid;
+        border-radius: 189px;
+        background-color: rgb(69, 119, 255);
+        color: red;
+    }
+
+    .nav5 {
+        padding: 29px;
+        margin: 20px;
+        background-color: rgb(197, 129, 54);
+        display: none;
+    }
+
+    .ppnl {
+        font-size: 45px;
+        padding: 2%;
+    }
+
+    .sklips {
+        text-decoration: none;
+        font-size: 63px;
+        color: rgb(255, 255, 255);
+        padding: 22px;
+    }
+
+    .sklips:hover {
+        color: red;
+    }
+
+    .zabavleniq {
+        background-color: rgb(221, 240, 255);
+    }
+
+    .img1 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img2 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img3 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img4 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img5 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img6 {
+        padding: 13px;
+        float: left;
+        display: none;
+        margin: 16px;
+        width: 97%;
+        height: 100%;
+    }
+
+    .img7 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img8 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img9 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img10 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img11 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img12 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img13 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img14 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img15 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img16 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img17 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img18 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img19 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img20 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img21 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img22 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img23 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    .img24 {
+        padding: 13px;
+        float: left;
+        width: 97%;
+        height: 100%;
+        margin: 16px;
+    }
+
+    #image {
+        width: 100%;
+        height: 100%;
+        border-radius: 20px;
+    }
+
+    .imgem {
+        display: none;
+    }
+
+    .obnav4 {
+        position: static;
+        width: 100%;
+        height: 100%;
+    }
+
+    .kartstd {
+        display: inline-block;
+        margin: 2%;
+        padding: 3%;
+        border-radius: 40px;
+        background-color: rgb(197, 129, 54);
+    }
+
+    .studio {
+        width: 100%;
+        height: 100%;
+        border-radius: 20px;
+    }
+
+    .yes {
+        display: none;
+    }
+
+    #snzg {
+        text-align: center;
+        font-size: 61px;
+    }
+
+    .plear {
+        padding: 14px;
+        margin: 8px;
+    }
+
+    .audzap {
+        min-width: 67%;
+        border: 8px solid rgb(0, 162, 232);
+        border-radius: 60px;
+        background-color: rgb(197, 129, 54);
+        padding: 4px;
+    }
+
+    .plr {
+        text-decoration: none;
+        text-align: center;
+        border: 8px solid rgb(0, 162, 232);
+        border-radius: 60px;
+        background-color: rgb(197, 129, 54);
+        color: #ffffff;
+        font-size: 32px;
+        padding: 16px;
+    }
+
+    .plr:hover {
+        border: 8px solid rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+        color: rgb(255, 255, 255);
+    }
+
+    .obplear {
+        float: right;
+    }
+
+    .obvsplr {
+        padding: 2%;
+    }
+
+    .poshte {
+        text-decoration: none;
+        text-align: center;
+        font-size: 44px;
+        font-weight: bold;
+        color: rgb(197, 129, 54);
+        width: 100%;
+        height: 100%;
+    }
+
+    .poshte:hover {
+        color: red;
+        text-decoration: none;
+    }
+
+    .news {
+        background-color: rgb(221, 240, 255);
+        padding: 2%;
+        border-radius: 20px;
+        margin: 2%;
+    }
+
+    .vsnews {
+        background-color: rgb(221, 240, 255);
+        padding: 1%;
+        margin: 1%;
+        text-align: center;
+        width: 100%;
+        height: 100%;
+    }
+
+    .vnews {
+        text-decoration: none;
+        text-align: center;
+        color: rgb(197, 129, 54);
+        font-size: 56px;
+        font-weight: bold;
+        width: 100%;
+        height: 100%;
+    }
+
+    .vnews:hover {
+        text-decoration: none;
+        color: red;
+    }
+
+
+    .zaglavie {
+        color: rgb(197, 129, 54);
+        font-size: 64px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .zaglavie1 {
+        color: rgb(197, 129, 54);
+        font-size: 53px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .euro {
+        display: inline-block;
+        padding: 85px;
+        border-radius: 20px;
+        color: rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+        text-align: center;
+        font-size: 38px;
+        font-weight: bold;
+        width: 20%;
+        height: 20%;
+    }
+
+    .bgn {
+        display: inline-block;
+        padding: 85px;
+        border-radius: 20px;
+        color: rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+        text-align: center;
+        font-size: 38px;
+        font-weight: bold;
+        width: 20%;
+        height: 20%;
+    }
+
+    .converter {
+        padding: 8%;
+    }
+
+    .btn {
+        border-radius: 40px;
+        background-color: rgb(197, 129, 54);
+        color: rgb(255, 255, 255);
+        width: 100%;
+        height: 100%;
+        font-size: 28px;
+        padding: 10px;
+    }
+
+    .btn:hover {
+        color: red;
+    }
+
+    input {
+        font-size: 22px;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .navigaciq {
+        display: block !important;
+        visibility: visible;
+    }
+
+    .nadglvnav {
+        display: none;
+    }
+}
